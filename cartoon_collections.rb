@@ -1,4 +1,5 @@
-def roll_call_dwarves(dwarf_names)
+def roll_call_dwarves(dwarves)
+  dwarves.each_with_index
   
 end
 
